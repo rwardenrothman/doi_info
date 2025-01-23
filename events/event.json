@@ -1,0 +1,124 @@
+{
+  "resource": "/hello",
+  "path": "/hello/",
+  "httpMethod": "POST",
+  "headers": {
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Encoding": "gzip, compress, deflate, br",
+    "CloudFront-Forwarded-Proto": "https",
+    "CloudFront-Is-Desktop-Viewer": "true",
+    "CloudFront-Is-Mobile-Viewer": "false",
+    "CloudFront-Is-SmartTV-Viewer": "false",
+    "CloudFront-Is-Tablet-Viewer": "false",
+    "CloudFront-Viewer-ASN": "396982",
+    "CloudFront-Viewer-Country": "US",
+    "Content-Type": "application/json",
+    "Host": "sqixlbl6mg.execute-api.us-east-1.amazonaws.com",
+    "User-Agent": "axios/1.6.7",
+    "Via": "1.1 280bb21cc570c951a4ab6ce0d284fba4.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "gepBQa4rRpyXFRDfez7dueVr0Qbk0yiQLFFZbYe0FoEevPaJNjj9ow==",
+    "X-Amzn-Trace-Id": "Root=1-6605c099-0a7a2d563f92fd2b08a9bee8",
+    "X-Forwarded-For": "35.203.248.167, 130.176.186.8",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "multiValueHeaders": {
+    "Accept": [
+      "application/json, text/plain, */*"
+    ],
+    "Accept-Encoding": [
+      "gzip, compress, deflate, br"
+    ],
+    "CloudFront-Forwarded-Proto": [
+      "https"
+    ],
+    "CloudFront-Is-Desktop-Viewer": [
+      "true"
+    ],
+    "CloudFront-Is-Mobile-Viewer": [
+      "false"
+    ],
+    "CloudFront-Is-SmartTV-Viewer": [
+      "false"
+    ],
+    "CloudFront-Is-Tablet-Viewer": [
+      "false"
+    ],
+    "CloudFront-Viewer-ASN": [
+      "396982"
+    ],
+    "CloudFront-Viewer-Country": [
+      "US"
+    ],
+    "Content-Type": [
+      "application/json"
+    ],
+    "Host": [
+      "sqixlbl6mg.execute-api.us-east-1.amazonaws.com"
+    ],
+    "User-Agent": [
+      "axios/1.6.7"
+    ],
+    "Via": [
+      "1.1 280bb21cc570c951a4ab6ce0d284fba4.cloudfront.net (CloudFront)"
+    ],
+    "X-Amz-Cf-Id": [
+      "gepBQa4rRpyXFRDfez7dueVr0Qbk0yiQLFFZbYe0FoEevPaJNjj9ow=="
+    ],
+    "X-Amzn-Trace-Id": [
+      "Root=1-6605c099-0a7a2d563f92fd2b08a9bee8"
+    ],
+    "X-Forwarded-For": [
+      "35.203.248.167, 130.176.186.8"
+    ],
+    "X-Forwarded-Port": [
+      "443"
+    ],
+    "X-Forwarded-Proto": [
+      "https"
+    ]
+  },
+  "queryStringParameters": {
+    "doi": "10.1101/2022.03.09.483646"
+  },
+  "multiValueQueryStringParameters": {
+    "doi": [
+      "10.1101/2022.03.09.483646"
+    ]
+  },
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "resourceId": "i4ifzy",
+    "resourcePath": "/hello",
+    "httpMethod": "POST",
+    "extendedRequestId": "VWsIEGGAoAMEVnA=",
+    "requestTime": "28/Mar/2024:19:10:17 +0000",
+    "path": "/Prod/hello/",
+    "accountId": "975049919633",
+    "protocol": "HTTP/1.1",
+    "stage": "Prod",
+    "domainPrefix": "sqixlbl6mg",
+    "requestTimeEpoch": 1711653017720,
+    "requestId": "37e9c12f-6850-4fe4-8ca9-3fbdc58500c1",
+    "identity": {
+      "cognitoIdentityPoolId": null,
+      "accountId": null,
+      "cognitoIdentityId": null,
+      "caller": null,
+      "sourceIp": "35.203.248.167",
+      "principalOrgId": null,
+      "accessKey": null,
+      "cognitoAuthenticationType": null,
+      "cognitoAuthenticationProvider": null,
+      "userArn": null,
+      "userAgent": "axios/1.6.7",
+      "user": null
+    },
+    "domainName": "sqixlbl6mg.execute-api.us-east-1.amazonaws.com",
+    "deploymentId": "qrxytq",
+    "apiId": "sqixlbl6mg"
+  },
+  "body": "\"- Authors\\\\n  - [[Chase L. Beisel^lnHss8TC_ic4]]\\\\n  - [[Yiannis Kaznessis^wu7iHfhP2bvZ]]\\\\n  - [[Kelsey E. Boykin^OvB91j7I_eWR]]\\\\n  - [[Konstantinos Biliouris^LVmtzaXdcmfQ]]\\\\n  - [[Taliman Afroz^MKiIQ5AinItb]]\\\\n  - [[ResMed^cMoDCdDrFau3]]\\\\n  - [[Sovan Mandal^R1UZB_Jlyy-3]]\\\\n  - [[Robyn Song^-sLmdpS_uwRa]]\\\\n  - [[Jason Chin^bwghLWFA9zcP]]\\\\n  - [[Daniel L. Dunkelmann^6nOVjJkTL7sk]]\\\\n  - [[Louise La Barbera Kastberg^Kj93E0STSDsI]]\\\\n  - [[Mykhaylo S. Petrov^1AfKHngG6ELJ]]\\\\n  - [[Tomas Strucko^K65_nLEQxra7]]\\\\n  - [[Michael K. Jensen^qVAWNKNKyNN7]]\\\\n  - [[Christopher T. Workman^_tz6V_MQtWB2]]\\\\n  - [[Boqiang Tu^FeiFnEhkkPFJ]]\\\\n  - [[Moritz Pott^OQVQlY7r-yZv]]\\\\n  - [[Moritz Johannes Schmidt^HrcKnxFTaUkB]]\\\\n  - [[Daniel Summerer^_vTHgXTgc2aM]]\\\\n  - [[Kevin M. Esvelt^LgueW2acaKmh]]\\\\n\\n- Journals\\\\n  - [[Nature^SIgH4AUI0-tX]]\\\\n  - [[ACS Synthetic Biology^8cs7PgAvdeSB]]\\\\n  - [[bioRxiv^5p9CnkicOE2C]]\\\\n  - [[ACS Chemical Biology^rxHi30i-ohuX]]\\\\n\"",
+  "isBase64Encoded": false
+}

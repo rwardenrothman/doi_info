@@ -1,0 +1,714 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        9
+      ]
+    ],
+    "date-time": "2024-01-09T18:03:56Z",
+    "timestamp": 1704823436918
+  },
+  "reference-count": 49,
+  "publisher": "American Chemical Society (ACS)",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            4,
+            15
+          ]
+        ],
+        "date-time": "2015-04-15T00:00:00Z",
+        "timestamp": 1429056000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 352,
+      "URL": "http://pubs.acs.org/page/policy/authorchoice_termsofuse.html"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100000052",
+      "name": "NIH Office of the Director",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "GM086865"
+      ]
+    },
+    {
+      "DOI": "10.13039/100000179",
+      "name": "NSF Office of the Director",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "CBET-0425882",
+        "CBET-0644792",
+        "OCI-1053575"
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        2,
+        20
+      ]
+    ]
+  },
+  "DOI": "10.1021/sb400162z",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        4,
+        15
+      ]
+    ],
+    "date-time": "2014-04-15T18:10:11Z",
+    "timestamp": 1397585411000
+  },
+  "page": "141-149",
+  "source": "Crossref",
+  "is-referenced-by-count": 12,
+  "title": "Trade-offs in Engineering Sugar Utilization Pathways for Titratable Control",
+  "prefix": "10.1021",
+  "volume": "4",
+  "author": [
+    {
+      "given": "Taliman",
+      "family": "Afroz",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department\rof Chemical and Biomolecular Engineering North Carolina State University Raleigh, North Carolina 27695, United States"
+        }
+      ]
+    },
+    {
+      "given": "Konstantinos",
+      "family": "Biliouris",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department\rof Chemical Engineering and Materials Science University of Minnesota Minneapolis, Minnesota 55455, United States"
+        }
+      ]
+    },
+    {
+      "given": "Kelsey E.",
+      "family": "Boykin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department\rof Chemical and Biomolecular Engineering North Carolina State University Raleigh, North Carolina 27695, United States"
+        }
+      ]
+    },
+    {
+      "given": "Yiannis",
+      "family": "Kaznessis",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department\rof Chemical Engineering and Materials Science University of Minnesota Minneapolis, Minnesota 55455, United States"
+        }
+      ]
+    },
+    {
+      "given": "Chase L.",
+      "family": "Beisel",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department\rof Chemical and Biomolecular Engineering North Carolina State University Raleigh, North Carolina 27695, United States"
+        }
+      ]
+    }
+  ],
+  "member": "316",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        4,
+        28
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref1/cit1",
+      "doi-asserted-by": "crossref",
+      "first-page": "7085",
+      "DOI": "10.1073/pnas.1120788109",
+      "volume": "109",
+      "author": "Temme K.",
+      "year": "2012",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref2/cit2",
+      "doi-asserted-by": "crossref",
+      "first-page": "4121",
+      "DOI": "10.1128/jb.177.14.4121-4130.1995",
+      "volume": "177",
+      "author": "Guzman L. M.",
+      "year": "1995",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "ref3/cit3",
+      "doi-asserted-by": "crossref",
+      "first-page": "21",
+      "DOI": "10.1073/pnas.80.1.21",
+      "volume": "80",
+      "author": "De Boer H. A.",
+      "year": "1983",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref4/cit4",
+      "doi-asserted-by": "crossref",
+      "first-page": "2643",
+      "DOI": "10.1073/pnas.0606398104",
+      "volume": "104",
+      "author": "Weber W.",
+      "year": "2007",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref5/cit5",
+      "doi-asserted-by": "crossref",
+      "first-page": "13485",
+      "DOI": "10.1074/jbc.M512317200",
+      "volume": "281",
+      "author": "Hawkins K. M.",
+      "year": "2006",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "ref6/cit6",
+      "doi-asserted-by": "crossref",
+      "first-page": "7881",
+      "DOI": "10.1128/AEM.01537-10",
+      "volume": "76",
+      "author": "Topp S.",
+      "year": "2010",
+      "journal-title": "Appl. Environ. Microbiol."
+    },
+    {
+      "key": "ref7/cit7",
+      "doi-asserted-by": "crossref",
+      "first-page": "2715",
+      "DOI": "10.1002/anie.200805311",
+      "volume": "48",
+      "author": "Wieland M.",
+      "year": "2009",
+      "journal-title": "Angew. Chem., Int. Ed. Engl."
+    },
+    {
+      "key": "ref8/cit8",
+      "doi-asserted-by": "crossref",
+      "first-page": "1853",
+      "DOI": "10.1093/nar/gkg285",
+      "volume": "31",
+      "author": "Suess B.",
+      "year": "2003",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "ref9/cit9",
+      "doi-asserted-by": "crossref",
+      "first-page": "16310",
+      "DOI": "10.1021/ja805203w",
+      "volume": "130",
+      "author": "Sharma V.",
+      "year": "2008",
+      "journal-title": "J. Am. Chem. Soc."
+    },
+    {
+      "key": "ref10/cit10",
+      "doi-asserted-by": "crossref",
+      "first-page": "901",
+      "DOI": "10.1038/nbt731",
+      "volume": "20",
+      "author": "Weber W.",
+      "year": "2002",
+      "journal-title": "Nat. Biotechnol."
+    },
+    {
+      "key": "ref11/cit11",
+      "doi-asserted-by": "crossref",
+      "first-page": "5547",
+      "DOI": "10.1073/pnas.89.12.5547",
+      "volume": "89",
+      "author": "Gossen M.",
+      "year": "1992",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref12/cit12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1107",
+      "DOI": "10.1021/cb200168y",
+      "volume": "6",
+      "author": "Volzing K.",
+      "year": "2011",
+      "journal-title": "ACS Chem. Biol."
+    },
+    {
+      "key": "ref13/cit13",
+      "doi-asserted-by": "crossref",
+      "first-page": "159",
+      "DOI": "10.1038/sj.embor.embor734",
+      "volume": "4",
+      "author": "Neddermann P.",
+      "year": "2003",
+      "journal-title": "EMBO Rep."
+    },
+    {
+      "key": "ref14/cit14",
+      "doi-asserted-by": "crossref",
+      "first-page": "441",
+      "DOI": "10.1038/nature04405",
+      "volume": "438",
+      "author": "Levskaya A.",
+      "year": "2005",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref15/cit15",
+      "doi-asserted-by": "crossref",
+      "first-page": "715",
+      "DOI": "10.1038/nrmicro2186",
+      "volume": "7",
+      "author": "Alper H.",
+      "year": "2009",
+      "journal-title": "Nat. Rev. Microbiol."
+    },
+    {
+      "key": "ref16/cit16",
+      "doi-asserted-by": "crossref",
+      "first-page": "1293",
+      "DOI": "10.1128/JB.01219-10",
+      "volume": "193",
+      "author": "Joshua C. J.",
+      "year": "2011",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "ref17/cit17",
+      "doi-asserted-by": "crossref",
+      "first-page": "27290",
+      "DOI": "10.1074/jbc.M109.003814",
+      "volume": "284",
+      "author": "Johnsen U.",
+      "year": "2009",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "ref18/cit18",
+      "doi-asserted-by": "crossref",
+      "first-page": "99",
+      "DOI": "10.1042/BST0390099",
+      "volume": "39",
+      "author": "Peng N.",
+      "year": "2011",
+      "journal-title": "Biochem. Soc. Trans."
+    },
+    {
+      "key": "ref19/cit19",
+      "doi-asserted-by": "crossref",
+      "first-page": "2547",
+      "DOI": "10.1128/AEM.72.4.2547-2555.2006",
+      "volume": "72",
+      "author": "Cardona S. T.",
+      "year": "2006",
+      "journal-title": "Appl. Environ. Microbiol."
+    },
+    {
+      "key": "ref20/cit20",
+      "first-page": "301",
+      "volume": "4",
+      "author": "Schlegel A.",
+      "year": "2002",
+      "journal-title": "J. Mol. Microbiol. Biotechnol."
+    },
+    {
+      "key": "ref21/cit21",
+      "doi-asserted-by": "crossref",
+      "first-page": "123",
+      "DOI": "10.1139/o90-017",
+      "volume": "68",
+      "author": "Peri K. G.",
+      "year": "1990",
+      "journal-title": "Biochem. Cell Biol."
+    },
+    {
+      "key": "ref22/cit22",
+      "doi-asserted-by": "crossref",
+      "first-page": "3260",
+      "DOI": "10.1128/jb.178.11.3260-3269.1996",
+      "volume": "178",
+      "author": "Tong S.",
+      "year": "1996",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "ref23/cit23",
+      "doi-asserted-by": "crossref",
+      "first-page": "383",
+      "DOI": "10.1007/s00792-006-0510-7",
+      "volume": "10",
+      "author": "Lubelska J. M.",
+      "year": "2006",
+      "journal-title": "Extremophiles"
+    },
+    {
+      "key": "ref24/cit24",
+      "doi-asserted-by": "crossref",
+      "first-page": "7025",
+      "DOI": "10.1128/jb.179.22.7025-7032.1997",
+      "volume": "179",
+      "author": "Song S.",
+      "year": "1997",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "ref25/cit25",
+      "doi-asserted-by": "crossref",
+      "first-page": "5585",
+      "DOI": "10.1128/jb.175.17.5585-5594.1993",
+      "volume": "175",
+      "author": "Moralejo P.",
+      "year": "1993",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "ref26/cit26",
+      "doi-asserted-by": "crossref",
+      "first-page": "8168",
+      "DOI": "10.1073/pnas.94.15.8168",
+      "volume": "94",
+      "author": "Siegele D. A.",
+      "year": "1997",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref27/cit27",
+      "doi-asserted-by": "crossref",
+      "first-page": "553",
+      "DOI": "10.1073/pnas.43.7.553",
+      "volume": "43",
+      "author": "Novick A.",
+      "year": "1957",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref28/cit28",
+      "doi-asserted-by": "crossref",
+      "first-page": "613",
+      "DOI": "10.1128/jb.78.5.613-623.1959",
+      "volume": "78",
+      "author": "Cohn M.",
+      "year": "1959",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "ref29/cit29",
+      "doi-asserted-by": "crossref",
+      "first-page": "737",
+      "DOI": "10.1038/nature02298",
+      "volume": "427",
+      "author": "Ozbudak E. M.",
+      "year": "2004",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref30/cit30",
+      "doi-asserted-by": "crossref",
+      "first-page": "228",
+      "DOI": "10.1038/nature03524",
+      "volume": "435",
+      "author": "Acar M.",
+      "year": "2005",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref31/cit31",
+      "doi-asserted-by": "crossref",
+      "first-page": "6043",
+      "DOI": "10.1073/pnas.0606717104",
+      "volume": "104",
+      "author": "Kuhlman T.",
+      "year": "2007",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref32/cit32",
+      "doi-asserted-by": "crossref",
+      "first-page": "7702",
+      "DOI": "10.1073/pnas.1230759100",
+      "volume": "100",
+      "author": "Setty Y.",
+      "year": "2003",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref33/cit33",
+      "doi-asserted-by": "crossref",
+      "first-page": "20815",
+      "DOI": "10.1073/pnas.0706231105",
+      "volume": "104",
+      "author": "Krishna S.",
+      "year": "2007",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref34/cit34",
+      "doi-asserted-by": "crossref",
+      "first-page": "011926",
+      "DOI": "10.1103/PhysRevE.80.011926",
+      "volume": "80",
+      "author": "Tian X.-J.",
+      "year": "2009",
+      "journal-title": "Phys. Rev. E Stat. Nonlin. Soft Matter Phys."
+    },
+    {
+      "key": "ref35/cit35",
+      "doi-asserted-by": "crossref",
+      "first-page": "3241",
+      "DOI": "10.1099/00221287-147-12-3241",
+      "volume": "147",
+      "author": "Khlebnikov A.",
+      "year": "2001",
+      "journal-title": "Microbiology"
+    },
+    {
+      "key": "ref36/cit36",
+      "doi-asserted-by": "crossref",
+      "first-page": "7029",
+      "DOI": "10.1128/JB.182.24.7029-7034.2000",
+      "volume": "182",
+      "author": "Khlebnikov A.",
+      "year": "2000",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "ref37/cit37",
+      "doi-asserted-by": "crossref",
+      "first-page": "7373",
+      "DOI": "10.1073/pnas.122227599",
+      "volume": "99",
+      "author": "Morgan-Kiss R. M.",
+      "year": "2002",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref38/cit38",
+      "doi-asserted-by": "crossref",
+      "first-page": "779",
+      "DOI": "10.1111/j.1574-6976.2010.00226.x",
+      "volume": "34",
+      "author": "Schleif R.",
+      "year": "2010",
+      "journal-title": "FEMS Microbiol. Rev."
+    },
+    {
+      "key": "ref39/cit39",
+      "doi-asserted-by": "crossref",
+      "first-page": "7765",
+      "DOI": "10.1128/jb.173.24.7765-7771.1991",
+      "volume": "173",
+      "author": "Reeder T.",
+      "year": "1991",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "ref40/cit40",
+      "doi-asserted-by": "crossref",
+      "first-page": "497",
+      "DOI": "10.1016/S0022-2836(05)80163-9",
+      "volume": "215",
+      "author": "Hendrickson W.",
+      "year": "1990",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "ref41/cit41",
+      "doi-asserted-by": "crossref",
+      "first-page": "623",
+      "DOI": "10.1038/nmeth895",
+      "volume": "3",
+      "author": "Zaslaver A.",
+      "year": "2006",
+      "journal-title": "Nat. Methods"
+    },
+    {
+      "key": "ref42/cit42",
+      "doi-asserted-by": "crossref",
+      "first-page": "842",
+      "DOI": "10.1038/nchembio.218",
+      "volume": "5",
+      "author": "Tan C.",
+      "year": "2009",
+      "journal-title": "Nat. Chem. Biol."
+    },
+    {
+      "key": "ref43/cit43",
+      "doi-asserted-by": "crossref",
+      "first-page": "5123",
+      "DOI": "10.1073/pnas.0809901106",
+      "volume": "106",
+      "author": "Nevozhay D.",
+      "year": "2009",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "ref44/cit44",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1186/1752-0509-5-111",
+      "volume": "5",
+      "author": "Madar D.",
+      "year": "2011",
+      "journal-title": "BMC Syst. Biol."
+    },
+    {
+      "key": "ref45/cit45",
+      "doi-asserted-by": "crossref",
+      "first-page": "245",
+      "DOI": "10.1111/j.1365-2958.1993.tb01950.x",
+      "volume": "10",
+      "author": "Weickert M. J.",
+      "year": "1993",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "ref46/cit46",
+      "doi-asserted-by": "crossref",
+      "first-page": "2841",
+      "DOI": "10.1016/S0006-3495(03)70013-7",
+      "volume": "84",
+      "author": "Yildirim N.",
+      "year": "2003",
+      "journal-title": "Biophys. J."
+    },
+    {
+      "key": "ref47/cit47",
+      "doi-asserted-by": "crossref",
+      "first-page": "63",
+      "DOI": "10.1016/S0378-1119(03)00728-5",
+      "volume": "315",
+      "author": "Court D. L.",
+      "year": "2003",
+      "journal-title": "Gene"
+    },
+    {
+      "key": "ref48/cit48",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.1016/0378-1119(95)00193-A",
+      "volume": "158",
+      "author": "Cherepanov P. P.",
+      "year": "1995",
+      "journal-title": "Gene"
+    },
+    {
+      "key": "ref49/cit49",
+      "doi-asserted-by": "crossref",
+      "first-page": "161",
+      "DOI": "10.1038/msb4100204",
+      "volume": "4",
+      "author": "Del Vecchio D.",
+      "year": "2008",
+      "journal-title": "Mol. Syst. Biol."
+    }
+  ],
+  "container-title": "ACS Synthetic Biology",
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://pubs.acs.org/doi/pdf/10.1021/sb400162z",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        13
+      ]
+    ],
+    "date-time": "2023-04-13T16:12:45Z",
+    "timestamp": 1681402365000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pubs.acs.org/doi/10.1021/sb400162z"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        4,
+        28
+      ]
+    ]
+  },
+  "references-count": 49,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          20
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1021/sb400162z"
+  ],
+  "URL": "http://dx.doi.org/10.1021/sb400162z",
+  "relation": {},
+  "ISSN": [
+    "2161-5063",
+    "2161-5063"
+  ],
+  "subject": [
+    "Biochemistry, Genetics and Molecular Biology (miscellaneous)",
+    "Biomedical Engineering",
+    "General Medicine"
+  ],
+  "container-title-short": "ACS Synth. Biol.",
+  "published": {
+    "date-parts": [
+      [
+        2014,
+        4,
+        28
+      ]
+    ]
+  }
+}
